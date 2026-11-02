@@ -1,0 +1,13 @@
+ticker,shares,price,asset_class
+VTI,100,250,ETF
+VXUS,80,60,ETF
+BND,100,70,ETF
+AAPL,30,200,Stock
+MSFT,20,400,Stock
+GOOGL,25,170,Stock
+AMZN,20,180,Stock
+NVDA,30,120,Stock
+JPM,25,200,Stock
+JNJ,30,150,Stock
+PG,20,160,Stock
+XOM,30,110,Stock
